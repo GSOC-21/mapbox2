@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v31\\values-v31.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nabhi\\.gradle\\caches\\transforms-3\\12d590c5f734b5e1f18a140ecd520f01\\transformed\\jetified-notification-2.1.2\\res\\values-v31\\values-v31.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

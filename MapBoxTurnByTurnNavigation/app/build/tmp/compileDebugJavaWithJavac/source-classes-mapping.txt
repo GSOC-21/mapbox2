@@ -1,0 +1,6 @@
+com/mapboxturnbyturnnavigation/databinding/ActivityTurnByTurnNavigationViewBinding.java
+ com.mapboxturnbyturnnavigation.databinding.ActivityTurnByTurnNavigationViewBinding
+com/mapboxturnbyturnnavigation/databinding/MapboxTripProgressLayoutBinding.java
+ com.mapboxturnbyturnnavigation.databinding.MapboxTripProgressLayoutBinding
+com/mapboxturnbyturnnavigation/BuildConfig.java
+ com.mapboxturnbyturnnavigation.BuildConfig

@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\drawable_dummy_profile_pic.webp.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\drawable\\dummy_profile_pic.webp"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_origin.png.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\drawable\\ic_origin.png"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_turn_by_turn_navigation_view.xml.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\layout\\activity_turn_by_turn_navigation_view.xml"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_car.png.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\mipmap-hdpi\\ic_car.png"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\drawable_dotted.xml.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\drawable\\dotted.xml"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\layout_mapbox_trip_progress_layout.xml.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\layout\\mapbox_trip_progress_layout.xml"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\layout-land_mapbox_trip_progress_layout.xml.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\layout-land\\mapbox_trip_progress_layout.xml"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_horizontal_dotted_line.xml.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\drawable\\bg_horizontal_dotted_line.xml"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_location.png.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\drawable\\ic_location.png"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_profile_marker.png.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\drawable\\ic_profile_marker.png"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    }
+]

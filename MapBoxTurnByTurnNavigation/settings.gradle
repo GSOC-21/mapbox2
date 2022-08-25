@@ -13,7 +13,7 @@ dependencyResolutionManagement {
                 // This should always be `mapbox` (not your username).
                 username = "mapbox"
                 // Use the secret token you stored in gradle.properties as the password
-                password = "YOUR_ACCESS_TOKEN"
+                password = "sk.eyJ1IjoiYWJoaTUzMSIsImEiOiJjbDc4bDJqbDEwYXNrM3duZ284am1uOWtpIn0.Cj82FbU0o6-KXIp3x3EySA"
             }
         } // Warning: this repository is going to shut down soon
     }

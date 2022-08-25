@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rES\\values-es-rES.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nabhi\\.gradle\\caches\\transforms-3\\c8a0d19870059082240b9077af7bb84a\\transformed\\jetified-ui-maps-2.1.2\\res\\values-es-rES\\values-es-rES.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "62",
+                        "endOffsets": "113"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "139",
+                        "endColumns": "62",
+                        "endOffsets": "197"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nabhi\\.gradle\\caches\\transforms-3\\12d590c5f734b5e1f18a140ecd520f01\\transformed\\jetified-notification-2.1.2\\res\\values-es-rES\\values-es-rES.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "83",
+                        "endOffsets": "134"
+                    }
+                }
+            ]
+        }
+    ]
+}

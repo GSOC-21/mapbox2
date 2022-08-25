@@ -10,7 +10,7 @@ buildscript {
             }
             credentials {
                 username = "mapbox"
-                password = 'YOUR_ACCESS_TOKEN'
+                password = 'sk.eyJ1IjoiYWJoaTUzMSIsImEiOiJjbDc4bDJqbDEwYXNrM3duZ284am1uOWtpIn0.Cj82FbU0o6-KXIp3x3EySA'
             }
         }
     }

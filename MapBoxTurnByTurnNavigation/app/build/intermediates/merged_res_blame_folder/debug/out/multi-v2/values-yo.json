@@ -1,0 +1,96 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-yo\\values-yo.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nabhi\\.gradle\\caches\\transforms-3\\12d590c5f734b5e1f18a140ecd520f01\\transformed\\jetified-notification-2.1.2\\res\\values-yo\\values-yo.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,119",
+                        "endColumns": "63,52",
+                        "endOffsets": "114,167"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "155,219",
+                        "endColumns": "63,52",
+                        "endOffsets": "214,267"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nabhi\\.gradle\\caches\\transforms-3\\54fef046536931bdeb6c8530023877d4\\transformed\\jetified-utils-2.1.2\\res\\values-yo\\values-yo.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,103,157,206",
+                        "endColumns": "47,53,48,48",
+                        "endOffsets": "98,152,201,250"
+                    },
+                    "to": {
+                        "startLines": "9,11,12,13",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "375,469,523,572",
+                        "endColumns": "47,53,48,48",
+                        "endOffsets": "418,518,567,616"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nabhi\\.gradle\\caches\\transforms-3\\31f7a4c0263b2e01e5b0b475c74d1ab8\\transformed\\jetified-ui-voice-2.1.2\\res\\values-yo\\values-yo.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,102",
+                        "endColumns": "46,50",
+                        "endOffsets": "97,148"
+                    },
+                    "to": {
+                        "startLines": "7,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "272,669",
+                        "endColumns": "46,50",
+                        "endOffsets": "314,715"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nabhi\\.gradle\\caches\\transforms-3\\c8a0d19870059082240b9077af7bb84a\\transformed\\jetified-ui-maps-2.1.2\\res\\values-yo\\values-yo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "319",
+                        "endColumns": "55",
+                        "endOffsets": "370"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nabhi\\.gradle\\caches\\transforms-3\\828c265f6e5d130e0eab0d18cb04a1de\\transformed\\jetified-base-2.1.2\\res\\values-yo\\values-yo.xml",
+                    "from": {
+                        "startLines": "2,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,155,201",
+                        "endLines": "4,5,6",
+                        "endColumns": "14,45,47",
+                        "endOffsets": "150,196,244"
+                    },
+                    "to": {
+                        "startLines": "2,10,14",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,423,621",
+                        "endLines": "4,10,14",
+                        "endColumns": "14,45,47",
+                        "endOffsets": "150,464,664"
+                    }
+                }
+            ]
+        }
+    ]
+}

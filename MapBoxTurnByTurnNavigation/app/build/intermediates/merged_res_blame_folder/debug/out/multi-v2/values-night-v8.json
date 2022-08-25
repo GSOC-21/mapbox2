@@ -1,0 +1,130 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nabhi\\.gradle\\caches\\transforms-3\\3a769915bc3dab6b267d73dc6f849ea7\\transformed\\jetified-ui-maneuver-2.1.2\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,211,296,383,465,557,645,718,782",
+                        "endColumns": "69,85,84,86,81,91,87,72,63,96",
+                        "endOffsets": "120,206,291,378,460,552,640,713,777,874"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,17,22,23,24,28,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "710,780,866,951,1353,1435,1527,1853,1926,1990",
+                        "endColumns": "69,85,84,86,81,91,87,72,63,96",
+                        "endOffsets": "775,861,946,1033,1430,1522,1610,1921,1985,2082"
+                    }
+                },
+                {
+                    "source": "C:\\mapbox\\mapbox-part\\MapBoxTurnByTurnNavigation\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "849"
+                    },
+                    "to": {
+                        "startLines": "38",
+                        "startColumns": "4",
+                        "startOffsets": "2719",
+                        "endLines": "50",
+                        "endColumns": "12",
+                        "endOffsets": "3452"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nabhi\\.gradle\\caches\\transforms-3\\3916e0fc8a8281423fd45a3952bd7909\\transformed\\jetified-ui-tripprogress-2.1.2\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,124,204",
+                        "endColumns": "68,79,88",
+                        "endOffsets": "119,199,288"
+                    },
+                    "to": {
+                        "startLines": "25,26,27",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1615,1684,1764",
+                        "endColumns": "68,79,88",
+                        "endOffsets": "1679,1759,1848"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nabhi\\.gradle\\caches\\transforms-3\\ad5fe34a9cf2cb44b5417372b8e61af3\\transformed\\material-1.4.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,267,369,471,587,689,803,931,1047,1169,1305,1425,1559,1679,1791,1917,2041,2171,2293,2431,2565,2681",
+                        "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,123,129,121,137,133,115,119",
+                        "endOffsets": "138,262,364,466,582,684,798,926,1042,1164,1300,1420,1554,1674,1786,1912,2036,2166,2288,2426,2560,2676,2796"
+                    },
+                    "to": {
+                        "startLines": "51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,68,69,70,71,72,73,74",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3457,3545,3669,3771,3873,3989,4091,4205,4333,4449,4571,4707,4827,4961,5081,5193,5408,5532,5662,5784,5922,6056,6172",
+                        "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,123,129,121,137,133,115,119",
+                        "endOffsets": "3540,3664,3766,3868,3984,4086,4200,4328,4444,4566,4702,4822,4956,5076,5188,5314,5527,5657,5779,5917,6051,6167,6287"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nabhi\\.gradle\\caches\\transforms-3\\7cb3339588110403f0e4fd2a3ef0142e\\transformed\\appcompat-1.4.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "31,32,33,34,35,36,37,67",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "2087,2157,2241,2325,2421,2523,2625,5319",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "2152,2236,2320,2416,2518,2620,2714,5403"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nabhi\\.gradle\\caches\\transforms-3\\85c5e331aeec63f249e55c3bc5235de7\\transformed\\jetified-ui-resources-2.1.2\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,147,196,252,303,363,412,459,513,562,618",
+                        "endColumns": "44,46,48,55,50,59,48,46,53,48,55,46",
+                        "endOffsets": "95,142,191,247,298,358,407,454,508,557,613,660"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,145,192,241,297,348,408,457,504,558,607,663",
+                        "endColumns": "44,46,48,55,50,59,48,46,53,48,55,46",
+                        "endOffsets": "140,187,236,292,343,403,452,499,553,602,658,705"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nabhi\\.gradle\\caches\\transforms-3\\02dd33224e5a7ddca617ebfc775b9085\\transformed\\jetified-ui-speedlimit-2.1.2\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,133,214,298",
+                        "endColumns": "77,80,83,71",
+                        "endOffsets": "128,209,293,365"
+                    },
+                    "to": {
+                        "startLines": "18,19,20,21",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1038,1116,1197,1281",
+                        "endColumns": "77,80,83,71",
+                        "endOffsets": "1111,1192,1276,1348"
+                    }
+                }
+            ]
+        }
+    ]
+}
